@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cheng-01037
-- 👀 I’m interested in medical image computing, especially for applications related to cardiac MRI.
+- 👀 I’m interested in medical image computing: image reconstruction, quality enhancement, and semantic segmentation.
 
 <!---
 cheng-01037/cheng-01037 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
